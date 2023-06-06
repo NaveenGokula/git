@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	s.collageName();
 	s.collagerank();
 	s.collagecode();
-	s.deptName();
+	
 	s.hostelName();
 	s.studentName();
 	s.studentDept();
