@@ -5,6 +5,7 @@ public class Hostel extends dept {
 System.out.println("naveen");
 	}
 public static void main(String[] args) {
-	
+	Hostel h = new Hostel();
+	h.hostelName();
 }
 }
